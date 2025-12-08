@@ -3,5 +3,6 @@ int main() {
     printf("Integrantes del grupo\n");
     printf("Ronald Rodriguez C.I: 31.762.090\n");
     printf("Alexander Rodriguez C.I: 31.797.479\n");
+    printf("Alexander Sánchez C.I:31.644.118\n");
     return 0;
 }
